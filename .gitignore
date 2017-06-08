@@ -1,0 +1,5 @@
+/target/
+/src/main/resources/liquibase/liquibase.properties
+/src/main/resources/applicationContext.xml
+nb-configuration.xml
+/nbproject/
